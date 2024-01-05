@@ -1,7 +1,7 @@
 {
   "name": "com.dolphiiiin.uv-exporter",
   "displayName": "UV Exporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UV Exporter is a tool to export UV images of a specified mesh",
   "gitDependencies": {},
   "vpmDependencies": {},
