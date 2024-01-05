@@ -6,25 +6,43 @@ This is an editor extension that allows you to export UV images of 3D models usi
 Adjust the settings and press [Export UV] to save
 
 - Mesh
+
 Specify the model to which you want to export UVs.
 You can drag and drop from the hierarchy.
+
 - Resolution
+
 Specify the resolution of the output UV image.
+
 - Transparent Background
+
 Makes the background of the output UV image transparent.
+
 - Background Color
+
 Specifies the background color.
+
 - Line Color
+
 Specifies the color of the UV plugs
+
 - Fill Triangles
+
 Fills the inside of each UV face
 - Automatically determines color of triangles
+
 Fill with random color
+
 - Triangles color
+
 Specifies the color to fill
+
 - Draw a line
+
 Draws a line on top of the filled UV
+
 - Language
+
 Change language
 
 # Installation
@@ -55,7 +73,7 @@ Change language
 4. Enter `https://github.com/Dolphiiiin/LocalizeToolkit.git` in the text box and click Add.
 5. The package will be added to your project.
 
-## Scoped Registry (Project Settings > Package Manager > Scoped Registries
+## Scoped Registry
 
 1. Open the Project Settings window.
 2. Select the Package Manager category.
