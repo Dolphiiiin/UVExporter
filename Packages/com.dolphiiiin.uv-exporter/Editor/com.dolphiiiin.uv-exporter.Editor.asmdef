@@ -1,0 +1,14 @@
+{
+  "name": "com.dolphiiiin.uv-exporter.Editor",
+  "references": [
+    "com.dolphiiiin.uv-exporter"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

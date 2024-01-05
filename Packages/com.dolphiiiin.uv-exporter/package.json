@@ -1,0 +1,15 @@
+{
+  "name": "com.dolphiiiin.uv-exporter",
+  "displayName": "UV Exporter",
+  "version": "1.0.0",
+  "description": "UV Exporter is a tool to export UV images of a specified mesh",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Dolphiiiin",
+    "email": "dolphiiiin@users.noreply.github.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\VRC_SDK\\DELTAFLAIR\\Packages\\com.dolphiiiin.uv-exporter",
+}
